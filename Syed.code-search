@@ -1,0 +1,17 @@
+# Query: Syed
+# ContextLines: 1
+
+3 results - 1 file
+
+index.html:
+  396  
+  397:       <!-- I write blog posts on dev.to at https://dev.to/devsyedmohsin. I have linked my articles accordingly, so please update the article title, description, and link accordingly. For example, if you write an article on Medium, link your article to Medium. Also, don't forget to update the reaction count. -->
+  398  
+
+  474                  <div class="article-info">
+  475:                   <a href="https://dev.to/devsyedmohsin/free-open-source-portfolio-template-for-developers-4g1d" class="link" target="_blank" rel="noopener"
+  476                      >See Certification</a
+
+  625                <blockquote class="testimonial-text">
+  626:                 is one of my favourite people to work with. He's my go-to colleague when trouble shooting any new technique or technology because she understands how to tackle unknown problems with gumption. 
+  627                </blockquote>
